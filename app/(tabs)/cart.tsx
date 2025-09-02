@@ -8,3 +8,5 @@ const Cart: React.FC = () => {
         </View>
     );
 };
+
+export default Cart
